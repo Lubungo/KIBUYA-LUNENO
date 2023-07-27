@@ -1,0 +1,112 @@
+body{
+    background-color: bisque;
+}
+#tete{
+    border: 2px solid palevioletred;
+    background-color: white;
+    width: 1300px;
+    height: 80px;
+    
+}
+a{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-left: 100px;
+}
+#intro1{
+    width: 1300px;
+    height: 600px;
+}
+#intro2{
+    background-color: whitesmoke;
+    width: 1300px;
+    height: 350px;
+}
+h1{
+    margin-left: 50px;
+}
+#intro2{
+    border: 1px solid blue;
+    background-image: url("AVECLA.jpeg");
+    width: 650px;
+    height: 400px;
+}
+#intro3{
+    border: 1px solid blue;
+    background-image: url("AVEC2.jpeg");
+    width: 650px;
+    height: 400px;
+    margin-left:657PX;
+    margin-top: -400px;
+}
+h1{
+    color: blue;
+    margin-left: 100px;
+}
+h2{
+    color: white;
+
+}
+cite{
+    color: whitesmoke;
+}
+#intro4{
+    border: 1px solid blue;
+    background-color: bisque;
+    width: 650px;
+    height: 400px;
+}
+#intro5{
+    border: 1px solid blue;
+    background-color: bisque;
+    width: 650px;
+    height: 400px;
+    margin-left: 670px;
+    margin-top: -415px;
+}
+#parti1{
+    width: 1300;
+    height: 300px;
+    
+}
+#footer{
+    border: 2px solid blue;
+    background-color: white;
+    width: 1300px;
+    height: 430px;
+}
+.contenu{
+    color: black;
+}
+#pan{
+    background-color: burlywood;
+}
+Acc{
+    background-color: chartreuse;
+}
+.foo1{
+    font-family: 'Courier New', Courier, monospace;
+    margin-left: 70px;
+}
+.foo2{
+font-family: 'Courier New', Courier, monospace;
+}
+.foo3{
+    font-family: 'Courier New', Courier, monospace;
+    margin-left: 380px;
+    margin-top: -375px;
+}
+.foo4{
+    font-family: 'Courier New', Courier, monospace;
+    margin-left: 380px;
+    margin-top: -0px;
+}
+.foo5{
+    font-family: 'Courier New', Courier, monospace;
+    margin-left: 700px;
+    margin-top: -225px;
+}
+.foo7{
+    margin-left: 320px;
+    margin-top: -370px;
+}
+ 
